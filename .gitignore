@@ -1,0 +1,7 @@
+.env
+lib
+ticket_input
+ticket_output
+logfile.txt
+dist
+node_modules
